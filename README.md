@@ -14,7 +14,9 @@ Summary
 -------
 
 Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. I had a cute side gig as the neighbourhood's PC troubleshooter when I was in my teens, decided I 'didn't want to be a computer person' and wandered in the wilderness for a couple of decades. Now I'm back (from outer space) and have realised this is a great place to put my passion. 
+
 I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. And then I want to engage with my peers re: the system, to help clarify my understanding AND to help interpret for others who aren't at the same stage of understanding. And then I want to improve it!   
+
 Through my previous experience I've built a skill stack that I know is useful - I'm an excellent troubleshooter, have well practised communication and customer service skills (I do have to tone my accent back sometimes), and a demonstrated ability to work like a demon during crunch times. I'm in search of an environment that also values those skills and will keep challenging and supporting me. 
 
 
@@ -71,33 +73,33 @@ Feb 2001 - Dec 2004
 
 
 
-Selected Work Experience
+Selected Work Experience (and what I did and what it taught me) 
 ----------
 
 Dec 2018 - Mar 2020
 :   **Bartender and Server**; Free Times Cafe (Toronto, Canada) 
-- Greet, seat and provide full table service to ensure a high quality guest experience.
-- Provide mentorship and support to assist the development of junior colleagues.
+- I provided full table service to guests and mentorship and support to junior colleagues.
+- I learnt how to manage my workflow extremely well during crunch periods, how to keep cool under intense pressure (breathe!), and that my stomach can handle a LOT of latkes.
 
 May 2018 - Dec 2018
 :   **Trivia and Bingo Host**; [Funky Bunch Trivia](https://www.funkybunch.com.au/) (Melbourne, Australia)
-- Deliver a high-quality upbeat trivia experience 2-4 times weekly to public audiences of up to 150 people.
-- Work closely with corporate clients to deliver a experience tailored to their requirements.
-- Manage seamless integration of show equipment with venue audio-visual infrastructure.
+- I delivered an exciting trivia experience 2-4 times weekly to public and corporate audiences of up to 150 people.
+- I learnt how to tailor an offering to suit a client's requirements, further developed myon-the-fly AV patching skills, and how to gracefully handle your jokes not getting a laugh (you laugh yourself like it's the funniest thing ever).
 
 Aug 2015 - Apr 2017
-:   **Game Guru and Shift Supervisor**; Snakes and Lattes (Toronto, Canada)
-- Manage a team of up to 15 individuals per shift to deliver a high quality guest experience in a 200 seat venue.
-- Learn over 300 boardgames and proactively engage with guests to provide [board game recommendations](https://www.youtube.com/watch?v=fBYuajpFdrI) and tableside support (setup and teaching).
-- Provide mentorship and support to assist the development of junior colleagues.
+:   **Game Guru and Shift Supervisor**; Snakes and Lattes Boardgame Cafe (Toronto, Canada)
+- I managed a team of up to 15 individuals per shift in a 200 seat venue and proactively engaged with guests to provide [board game recommendations](https://www.youtube.com/watch?v=fBYuajpFdrI) and tableside support (setup and teaching).
+- As a supervisor I was involved in the development of procedural documents and ensuring those procedures were followed on the floor.
+- I learnt to manage a team during high-pressure periods and close to 500 boardgames (and that despite having 500 boardgames I could recommend to people, they still wanted to play Cards Against Humanity, and that was OK)
 
 May 2015 - Mar 2016
 :   **Front Desk Staff and Night Manager**; Canadiana Backpackers Inn (Toronto, Canada)
-- Provide front desk services in person and via email/phone to ensure an excellent guest experience.
+- I provided front desk services in person and via email/phone to ensure an excellent guest experience.
+- I learnt to moderate my accent to make myself more understandable and that it IS possible to clean 30 bathrooms in 90 minutes if you move quicly and make holsters for your spray bottles. 
 
 Jul 2011 - Jan 2015
 :   **Assistant Facilities Manager**; Museum Victoria (Melbourne, Australia)
-- Manage the maintenance of essential building services (HVAC, security, electrical, plumbing, cleaning) to ensure both visitor and internal stakeholder satisfaction. 
+- I managed the maintenance of essential building services (HVAC, security, electrical, plumbing, cleaning) to ensure both visitor and internal stakeholder satisfaction. 
 - Develop and administered a proactive maintenance schedule and manage a help desk system responding to 150+ user tickets per month.
 - Provide venue induction and safety training to staff and contractors.
 
