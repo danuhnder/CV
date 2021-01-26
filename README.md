@@ -13,7 +13,9 @@ danieljrobertson@gmail.com
 Summary
 -------
 
-Hi, I'm Dan. I am an aspiring full stack developer with a passion for problem solving and a capacious memory for complicated systems. I have a vast breadth of customer service experience and a demonstrated ability to communicate complex concepts in easy-to-understand terms. I enjoy how coding tickles my brain and I'm eager to find a role that challenges me daily and supports my further development.
+Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. I had a cute side gig as the neighbourhood's PC troubleshooter when I was in my teens, decided I 'didn't want to be a computer person' and wandered in the wilderness for a couple of decades. Now I'm back (from outer space) and have realised this is a great place to put my passion. 
+I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. And then I want to engage with my peers re: the system, to help clarify my understanding AND to help interpret for others who aren't at the same stage of understanding. And then I want to improve it!   
+Through my previous experience I've built a skill stack that I know is useful - I'm an excellent troubleshooter, have well practised communication and customer service skills (I do have to tone my accent back sometimes), and a demonstrated ability to work like a demon during crunch times. I'm in search of an environment that also values those skills and will keep challenging and supporting me. 
 
 
 Skills
@@ -21,12 +23,17 @@ Skills
 
 **Languages**: Javascript, Ruby, HTML, CSS      
 **Frameworks, Libraries and Environments**; NodeJS, ReactJS, Rails, Ajax, Express, EJS, JQuery, SASS, Styled Components     
-**Systems, CMS and Databases**: SQL, PostgreSQL, CircleCI, Git      
-**Testing**: Mocha, Chai, Storybook, Jest, Cypress 
+**Systems, CMS and Databases**: SQL, PostgreSQL, CircleCI, Git, Heroku, Netlify      
+**Testing**: Mocha, Chai, Storybook, Jest, Cypress
 
 
 Projects
 --------
+
+[**Rental Rants**](https://github.com/danuhnder/lighthouse_final): A full-stack single-page web application built atop the Google Maps API. Allows users to create and view tenancy reviews linked to properties and neighbourhoods based on latitude and logitude coordinates. Built as the final group project in Lighthouse Labs Web Development Bootcamp (Dec 2020).
+Front-end: React JS
+Back-end: Node, Express, PostgreSQL
+
 
 [**Interview Scheduler**](https://github.com/danuhnder/scheduler): Allows user to create, edit and delete appointments. Built as part of Lighthouse Labs Web Development Bootcamp (Dec 2020).      
 Front-end: HTML, CSS, ReactJS                                                       
