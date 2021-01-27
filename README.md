@@ -13,7 +13,7 @@ danieljrobertson@gmail.com
 Summary
 -------
 
-Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. I had a cute side gig as the neighbourhood's PC troubleshooter when I was in my teens, decided I 'didn't want to be a computer person' and wandered in the wilderness for a couple of decades. Now I'm back (from outer space) and have realised this is a great place to put my passion. 
+Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. Ever since my first PC I've loved troubleshooting (and made a little money doing it around the neghbourhood in my teens). I ended up studying science rather than computer science, branched into teaching, ended up as a waiter once . 
 
 I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. And then I want to engage with my peers re: the system, to help clarify my understanding AND to help interpret for others who aren't at the same stage of understanding. And then I want to improve it!   
 
@@ -24,7 +24,7 @@ Skills
 ------
 
 **Languages**: Javascript, Ruby, HTML, CSS      
-**Frameworks, Libraries and Environments**; NodeJS, ReactJS, Rails, Ajax, Express, EJS, JQuery, SASS, Styled Components     
+**Frameworks, Libraries and Environments**;  ReactJS,  Rails, NodeJS, Ajax, Express, EJS, JQuery, SASS, Styled Components     
 **Systems, CMS and Databases**: SQL, PostgreSQL, CircleCI, Git, Heroku, Netlify      
 **Testing**: Mocha, Chai, Storybook, Jest, Cypress
 
@@ -36,24 +36,23 @@ Projects
 Front-end: ReactJS                                                       
 Back-end: Node, Express, PostgreSQL                                                
 
-[**Interview Scheduler**](https://github.com/danuhnder/scheduler): Allows user to create, edit and delete appointments. Built as part of Lighthouse Labs Web Development Bootcamp (Dec 2020).      
+[**Rescue Dog Moms**](https://www.rescuedogmoms.ca): Podcast front page built with ReactJS accessing the Buzzsprout API. I built this website from client specifications and handled deployment and hosting (on time, under budget). 
+
+[**Superfun Poll App**](https://github.com/gybubest/midterm): Allows creation of and voting on polls, with results generated using the [*Borda count*](https://en.wikipedia.org/wiki/Borda_count) method. Group project built as part of Lighthouse Labs bootcamp - I handled full-stack development of the 'response' view (where users vote on polls and weightings are generated and submitted to database).        
+Front-end: HTML, SASS, EJS, JQuery                    
+Back-end: Node, Express, PostgreSQL
+    
+[**Jungle**](https://github.com/danuhnder/jungle-rails): E-commerce platform built as part of bootcamp. This project required learning and improviing an inherited codebase in a new language and framework (and taught me to LOVE Ruby)
+Front-end: HTML, SASS.                    
+Back-end: Rails 
+    
+[**Interview Scheduler**](https://github.com/danuhnder/scheduler): Allows user to create, edit and delete appointments. Built as part of Lighthouse Labs bootcamp.      
 Front-end: HTML, CSS, ReactJS                                                       
 Back-end: Node, Express, SQL                                                
 Test: Jest, Storybook, Cypress                                              
 
-[**Superfun Poll App**](https://github.com/gybubest/midterm): Allows creation of and voting on polls, with results generated using the [*Borda count*](https://en.wikipedia.org/wiki/Borda_count) method. Group project built as part of Lighthouse Labs Web Development Bootcamp (Dec 2020) - I handled full-stack development of the 'response' view (where users vote on polls and weightings generated and submitted to database).        
-Front-end: HTML, SASS, EJS, JQuery                    
-Back-end: Node, Express, PostgreSQL
-    
-
-[**Tweeter**](https://github.com/danuhnder/tweeter): A single page twitter clone built as part of Lighthouse Labs Web Development Bootcamp (Nov 2020).   
-Front-end: HTML, CSS, JQuery      
-Back-end: Node, Express
 
 
-[**TinyApp**](https://github.com/danuhnder/tweeter): A full stack web app allowing users to shorten URLS. Built as part of Lighthouse Labs Web Development Bootcamp (Nov 2020).        
-Front-end: HTML, CSS, EJS   
-Back-end: Node, Express
     
 
 
@@ -72,12 +71,13 @@ Feb 2001 - Dec 2004
 
 
 
-Selected Work Experience (and what I did and what it taught me) 
+Relevant Experience
 ----------
 
-Dec 2018 - Mar 2020
-:   **Bartender and Server**; Free Times Cafe (Toronto, Canada) 
-- I provided full table service to guests and mentorship and support to junior colleagues.
+
+:   **Bartender and Server**; Free Times Cafe (Toronto, Canada) Dec 2018 - Mar 2020
+- I managed a busy section requiring excellent time management, prioritisation of workflow, polished customer service 
+I provided full table service to guests and mentorship and support to junior colleagues.
 - I learnt how to manage my workflow extremely well during crunch periods and that my stomach can handle a LOT of latkes.
 
 May 2018 - Dec 2018
