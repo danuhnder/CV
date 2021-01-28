@@ -13,7 +13,7 @@ danieljrobertson@gmail.com
 Summary
 -------
 
-Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. Ever since my first PC I've loved troubleshooting (and made a little money doing it around the neghbourhood in my teens). I ended up studying science rather than computer science and branched into people-facing roles like teaching but my affinity and enthusiasm for tech never went away. I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. 
+Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. Ever since my first PC I've loved troubleshooting (and made a little money doing it around the neghbourhood in my teens). While I ended up studying science rather than computer science and branched into people-facing roles, my affinity and enthusiasm for tech never went away. I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. 
 
 Skills
 ------
