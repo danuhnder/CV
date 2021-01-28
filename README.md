@@ -13,18 +13,13 @@ danieljrobertson@gmail.com
 Summary
 -------
 
-Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. Ever since my first PC I've loved troubleshooting (and made a little money doing it around the neghbourhood in my teens). I ended up studying science rather than computer science, branched into teaching, ended up as a waiter once . 
-
-I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. And then I want to engage with my peers re: the system, to help clarify my understanding AND to help interpret for others who aren't at the same stage of understanding. And then I want to improve it!   
-
-Through my previous experience I've built a skill stack that I know is useful - I'm an excellent troubleshooter, have well practised communication and customer service skills (I do have to tone my accent back sometimes), and a demonstrated ability to work like a demon during crunch times. I'm in search of an environment that also values those skills and will keep challenging and supporting me. 
-
+Hi, I'm Dan. I'm a freshly-minted full-stack developer with a HUGE pile of enthusiasm to learn. Ever since my first PC I've loved troubleshooting (and made a little money doing it around the neghbourhood in my teens). I ended up studying science rather than computer science and branched into people-facing roles like teaching but my affinity and enthusiasm for tech never went away. I LOVE figuring stuff out. When a system is put in front of me - a new codebase, a building diagram, a boardgame I haven't played - I want to experience and understand as much of it as possible. 
 
 Skills
 ------
 
 **Languages**: Javascript, Ruby, HTML, CSS      
-**Frameworks, Libraries and Environments**;  ReactJS,  Rails, NodeJS, Ajax, Express, EJS, JQuery, SASS, Styled Components     
+**Frameworks, Libraries and Environments**;  ReactJS,  Rails, NodeJS, Ajax, Express, EJS, JQuery, SASS, Styled Components, Bootstrap   
 **Systems, CMS and Databases**: SQL, PostgreSQL, CircleCI, Git, Heroku, Netlify      
 **Testing**: Mocha, Chai, Storybook, Jest, Cypress
 
@@ -32,7 +27,7 @@ Skills
 Projects
 --------
 
-[**Rental Rants**](https://github.com/danuhnder/lighthouse_final): A full-stack single-page web application built atop the Google Maps API. Allows users to create and view tenancy reviews linked to properties and neighbourhoods based on latitude and logitude coordinates. Built as a group final project in Lighthouse Labs Web Development Bootcamp (Dec 2020).      
+[**Rental Rants**](https://github.com/danuhnder/lighthouse_final): A full-stack single-page web application built atop the Google Maps API. Allows users to create and view tenancy reviews linked to properties and neighbourhoods based on latitude and logitude coordinates. Built as a group final project in Lighthouse Labs Web Development Bootcamp (Dec 2020). [Check out the deployment here](https://thirsty-jang-ea95c4.netlify.app).       
 Front-end: ReactJS                                                       
 Back-end: Node, Express, PostgreSQL                                                
 
@@ -50,9 +45,6 @@ Back-end: Rails
 Front-end: HTML, CSS, ReactJS                                                       
 Back-end: Node, Express, SQL                                                
 Test: Jest, Storybook, Cypress                                              
-
-
-
     
 
 
@@ -76,36 +68,24 @@ Relevant Experience
 
 
 :   **Bartender and Server**; Free Times Cafe (Toronto, Canada) Dec 2018 - Mar 2020
-- I managed a busy section requiring excellent time management, prioritisation of workflow, polished customer service 
-I provided full table service to guests and mentorship and support to junior colleagues.
-- I learnt how to manage my workflow extremely well during crunch periods and that my stomach can handle a LOT of latkes.
+- I provided full table service to guest, requiring excellent time management, prioritisation of workflow, and polished customer service skills in stressful situations.
 
-May 2018 - Dec 2018
-:   **Trivia and Bingo Host**; [Funky Bunch Trivia](https://www.funkybunch.com.au/) (Melbourne, Australia)
-- I delivered an exciting trivia experience 2-4 times weekly to public and corporate audiences of up to 150 people.
-- I learnt how to tailor an offering to suit a client's requirements, further developed my on-the-fly AV patching skills, and how to gracefully handle your jokes not getting a laugh (you laugh yourself like it's the funniest thing ever).
 
-Aug 2015 - Apr 2017
-:   **Game Guru and Shift Supervisor**; Snakes and Lattes Boardgame Cafe (Toronto, Canada)
-- I managed a team of up to 15 individuals per shift in a 200 seat venue and proactively engaged with guests to provide [board game recommendations](https://www.youtube.com/watch?v=fBYuajpFdrI) and tableside support (setup and teaching).
-- I learnt to manage a team during high-pressure periods and the rules to ~300 boardgames (and that despite having 300 boardgames I could recommend to people, they still wanted to play Cards Against Humanity, and that was OK)
+:   **Trivia and Bingo Host**; [Funky Bunch Trivia](https://www.funkybunch.com.au/) (Melbourne, Australia) May 2018 - Dec 2018 
+- I delivered an engaging, fast paced trivia experience 2-4 times weekly in a variety of pubs and venues, requiring the ability to modify an offering on-the-fly to suit an audience and insane AV patching skills.
 
-May 2015 - Mar 2016
-:   **Front Desk Staff and Night Manager**; Canadiana Backpackers Inn (Toronto, Canada)
-- I provided front desk services in person and via email/phone to ensure an excellent guest experience.
-- I learnt that it is possible to clean 30 bathrooms in 90 minutes if you move quickly and make holsters for your spray bottles. 
+:   **Game Guru and Shift Supervisor**; Snakes and Lattes Boardgame Cafe (Toronto, Canada) Aug 2015 - Apr 2017
+- I managed a team of up to 15 individuals in a 200 seat venue and engaged with guests to provide [board game recommendations](https://www.youtube.com/watch?v=fBYuajpFdrI) and support, requiring excellent communication and time management skills and the ability to remember fine details of over 300 boardgame rulesets (and yet everyone wanted to play Cards against Humanity!).
 
 Jul 2011 - Jan 2015
 :   **Assistant Facilities Manager**; Museum Victoria (Melbourne, Australia)
-- I managed the maintenance of essential building services (HVAC, security, electrical, plumbing, cleaning), a help desk system responding to 150+ user tickets per month and venue induction and safety training.
-- I developed strong skills in troubleshooting ancient building operation systems and keeping a diverse group of stakeholders as happy as budgets allowed.
+- I managed the maintenance of essential building services (HVAC, security, electrical, plumbing, cleaning), and a help desk system responding requiring strong skills in troubleshooting ancient building operation systems and keeping a diverse group of stakeholders as happy as budgets allowed.
 
 Jan 2008 - Jul 2011
 :   **Science Programs Officer**; Museum Victoria (Melbourne, Australia)
-- I lead the development and rollout of school holiday science programs catering to over 40,000 guests in a 16-day period and presented science and Planetarium programs to audiences of up to 600 people
-- I learned how fundamentally important it is to understand the needs and motivations of your visitors to develop experiences they will find engaging.
+- I lead the development and rollout of school holiday science programs catering to over 40,000 guests in a 16-day period, requiring a deep understanding of the needs and motivations of our visitors to develop experiences they will find engaging.
 
 Outside of work 
 ----------
 
-Boardgames, baking, brewing, biking and yoga.
+I'm a karaoke tragic, amateur fermenter, boardgames fanatic and like to keep centered with yoga and biking. 
