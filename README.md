@@ -67,22 +67,21 @@ Relevant Experience
 ----------
 
 
-:   **Bartender and Server**; Free Times Cafe (Toronto, Canada) Dec 2018 - Mar 2020
+  **Bartender and Server**; Free Times Cafe (Toronto, Canada) Dec 2018 - Mar 2020
 - I provided full table service to guest, requiring excellent time management, prioritisation of workflow, and polished customer service skills in stressful situations.
 
 
-:   **Trivia and Bingo Host**; [Funky Bunch Trivia](https://www.funkybunch.com.au/) (Melbourne, Australia) May 2018 - Dec 2018 
+   **Trivia and Bingo Host**; [Funky Bunch Trivia](https://www.funkybunch.com.au/) (Melbourne, Australia) May 2018 - Dec 2018 
 - I delivered an engaging, fast paced trivia experience 2-4 times weekly in a variety of pubs and venues, requiring the ability to modify an offering on-the-fly to suit an audience and insane AV patching skills.
 
-:   **Game Guru and Shift Supervisor**; Snakes and Lattes Boardgame Cafe (Toronto, Canada) Aug 2015 - Apr 2017
+  **Game Guru and Shift Supervisor**; Snakes and Lattes Boardgame Cafe (Toronto, Canada) Aug 2015 - Apr 2017
 - I managed a team of up to 15 individuals in a 200 seat venue and engaged with guests to provide [board game recommendations](https://www.youtube.com/watch?v=fBYuajpFdrI) and support, requiring excellent communication and time management skills and the ability to remember fine details of over 300 boardgame rulesets (and yet everyone wanted to play Cards against Humanity!).
 
-Jul 2011 - Jan 2015
-:   **Assistant Facilities Manager**; Museum Victoria (Melbourne, Australia)
+
+  **Assistant Facilities Manager**; Museum Victoria (Melbourne, Australia) Jul 2011 - Jan 2015
 - I managed the maintenance of essential building services (HVAC, security, electrical, plumbing, cleaning), and a help desk system responding requiring strong skills in troubleshooting ancient building operation systems and keeping a diverse group of stakeholders as happy as budgets allowed.
 
-Jan 2008 - Jul 2011
-:   **Science Programs Officer**; Museum Victoria (Melbourne, Australia)
+  **Science Programs Officer**; Museum Victoria (Melbourne, Australia) Jan 2008 - Jul 2011
 - I lead the development and rollout of school holiday science programs catering to over 40,000 guests in a 16-day period, requiring a deep understanding of the needs and motivations of our visitors to develop experiences they will find engaging.
 
 Outside of work 
