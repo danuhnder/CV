@@ -6,7 +6,7 @@ Daniel Robertson
 Toronto, ON, CANADA  
 416-500-3579  
 danieljrobertson@gmail.com    
-[github.com/danuhnder](https://github.com/danuhnder)
+[github.com/danuhnder](https://github.com/danuhnder)  
 [linkedin](https://www.linkedin.com/in/dan-robertson-b286571a9/)
 
  ---
