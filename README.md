@@ -1,6 +1,7 @@
 Daniel Robertson
 ============
 
+<img src="DANuglymug.jpg" alt="Image of the author in front of some mountains, with a dumb smile on his face" width="250px" height="250px">
 
 Toronto, ON, CANADA  
 416-500-3579  
