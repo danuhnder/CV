@@ -6,7 +6,7 @@ Daniel Robertson
 Toronto, ON, CANADA  
 416-500-3579  
 danieljrobertson@gmail.com    
-[github.com/danuhnder](https://github.com/danuhnder)  
+[github.com/danunder](https://github.com/danunder)  
 [linkedin](https://www.linkedin.com/in/dan-robertson-b286571a9/)
 
  ---
@@ -28,7 +28,7 @@ Skills
 Projects
 --------
 
-[**Rental Rants**](https://github.com/danuhnder/lighthouse_final): A full-stack single-page web application built atop the Google Maps API. Allows users to create and view tenancy reviews linked to properties and neighbourhoods based on latitude and logitude coordinates. Built as a group final project in Lighthouse Labs Web Development Bootcamp (Dec 2020). [Check out the deployment here](https://thirsty-jang-ea95c4.netlify.app).       
+[**Rental Rants**](https://github.com/danunder/lighthouse_final): A full-stack single-page web application built atop the Google Maps API. Allows users to create and view tenancy reviews linked to properties and neighbourhoods based on latitude and logitude coordinates. Built as a group final project in Lighthouse Labs Web Development Bootcamp (Dec 2020). [Check out the deployment here](https://thirsty-jang-ea95c4.netlify.app).       
 Front-end: ReactJS                                                       
 Back-end: Node, Express, PostgreSQL                                                
 
@@ -38,11 +38,11 @@ Back-end: Node, Express, PostgreSQL
 Front-end: HTML, SASS, EJS, JQuery                    
 Back-end: Node, Express, PostgreSQL
     
-[**Jungle**](https://github.com/danuhnder/jungle-rails): E-commerce platform built as part of bootcamp. This project required learning and improviing an inherited codebase in a new language and framework (and taught me to LOVE Ruby)
+[**Jungle**](https://github.com/danunder/jungle-rails): E-commerce platform built as part of bootcamp. This project required learning and improviing an inherited codebase in a new language and framework (and taught me to LOVE Ruby)
 Front-end: HTML, SASS.                    
 Back-end: Rails 
     
-[**Interview Scheduler**](https://github.com/danuhnder/scheduler): Allows user to create, edit and delete appointments. Built as part of Lighthouse Labs bootcamp.      
+[**Interview Scheduler**](https://github.com/danunder/scheduler): Allows user to create, edit and delete appointments. Built as part of Lighthouse Labs bootcamp.      
 Front-end: HTML, CSS, ReactJS                                                       
 Back-end: Node, Express, SQL                                                
 Test: Jest, Storybook, Cypress                                              
