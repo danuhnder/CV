@@ -7,7 +7,7 @@ Toronto, ON, CANADA
 416-500-3579  
 danieljrobertson@gmail.com    
 [github.com/danunder](https://github.com/danunder)  
-[linkedin](https://www.linkedin.com/in/dan-robertson-b286571a9/)
+[linkedin.com/in/danunder](https://www.linkedin.com/in/danunder)
 
  ---
 
